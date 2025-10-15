@@ -20,8 +20,8 @@ import tempfile
 
 # --- App Version and Update URL ---
 __version__ = "1.4.4"  # Updated version for Gmail Creator with individual Send buttons
-UPDATE_URL = "https://raw.githubusercontent.com/versozadarwin23/adbtool/refs/heads/main/main.py"
-VERSION_CHECK_URL = "https://raw.githubusercontent.com/versozadarwin23/adbtool/refs/heads/main/version.txt"
+UPDATE_URL = "https://raw.githubusercontent.com/versozadarwin23/gmail/refs/heads/main/main.py"
+VERSION_CHECK_URL = "https://raw.githubusercontent.com/versozadarwin23/gmail/refs/heads/main/version.txt"
 
 # --- Global Flag for Stopping Commands ---
 is_stop_requested = threading.Event()
